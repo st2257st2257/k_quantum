@@ -2,3 +2,4 @@
 Quantum-Operators-Library
 
 Пакет квантовых операций
+
